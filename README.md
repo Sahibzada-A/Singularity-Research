@@ -6,7 +6,7 @@
 # Job Application Repository (Star ⭐ the Repo to Apply!)
 
 
-##_**How to Apply**:_
+# _**How to Apply**:_
 
 
 ### Step 1: Star this Repository
