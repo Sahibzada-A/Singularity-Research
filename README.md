@@ -27,16 +27,20 @@ Once you’ve starred the repository, we will reach out to you with the next ste
 
 
 Important Notes
-	•	Mandatory Action:
+
+- Mandatory Action:
+
 You must star the repository to be considered for the position. Without starring the repository, your application will not be processed.
 
 
 
-	•	Privacy:
+- Privacy:
+  
 By starring the repository, you are giving us permission to view your public GitHub profile. We respect your privacy and will only use this information for the purposes of the application process.
 
 
 
-	•	Follow-Up:
+- Follow-Up:
+
 Keep an eye on your GitHub notifications and the email associated with your account for further communications from our recruitment team.
 
