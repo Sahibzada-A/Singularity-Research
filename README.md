@@ -1,14 +1,28 @@
 # Singularity-Research
 
 # Job Application Repository (Star the Repo to Apply)
+![image](https://github.com/user-attachments/assets/dd229a00-11ef-4977-9a81-0d48a9c000a2)
+
 
 How to Apply
 
+
 Step 1: Star this Repository
+
+
+
 To apply for the job, you must star this repository. Starring this repository is your official application. This action allows us to access your GitHub account details so we can review your profile.
 
+
+
 Step 2: Await Further Instructions
+
+
+
 Once you’ve starred the repository, we will reach out to you with the next steps in the application process. Please ensure your GitHub profile is up-to-date.
+
+
+
 
 Important Notes
 	•	Mandatory Action:
