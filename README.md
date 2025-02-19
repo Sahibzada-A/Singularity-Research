@@ -1,7 +1,7 @@
 # Singularity-Research
 
 # Job Application Repository (Star the Repo to Apply)
-<img src="https://github.com/user-attachments/assets/dd229a00-11ef-4977-9a81-0d48a9c000a2" width="400">
+<img src="https://github.com/user-attachments/assets/dd229a00-11ef-4977-9a81-0d48a9c000a2" width="200">
 
 
 How to Apply
