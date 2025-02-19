@@ -8,6 +8,8 @@ How to Apply
 
 
 Step 1: Star this Repository
+![image](https://github.com/user-attachments/assets/cc53f0e2-4347-4428-98d2-6d2333afc427)
+![image](https://github.com/user-attachments/assets/450c2a26-6026-419f-b200-494924b7f082)
 
 
 
