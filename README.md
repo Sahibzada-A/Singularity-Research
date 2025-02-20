@@ -17,7 +17,7 @@
 
 #### To apply for the job, **you must star this repository.** Starring this repository counts as your official application. We will screen your GitHub profile.
 
-##### IMPORTANT NOTE: Don’t be discouraged by the number of stars. It doesn’t reflect the number of applicants as it includes applicant for previous roles too. We are currently hiring for 11+ roles across the business. So there’s plenty to go around. 
+##### IMPORTANT NOTE: Don’t be discouraged by the number of stars. It doesn’t reflect the number of applicants, as it includes the applicants for previous roles too. We are currently hiring for 11+ roles across the business. So there’s plenty to go around. 
 
 
 ### Step 2: Await Further Instructions
